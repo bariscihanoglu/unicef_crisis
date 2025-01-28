@@ -42,13 +42,13 @@ Run the script:
 
 The script will:
 
-1.Launch headless Chrome browser
+1. Launch headless Chrome browser
 
-2.Scrape data from multiple pages
+2. Scrape data from multiple pages
 
-3.Filter results by specified dates
+3. Filter results by specified dates
 
-4.Save output to crisis_data.csv
+4. Save output to crisis_data.csv
 
 ## Output Example (crisis_data_example.csv)
 Country,MonthYear,Title,Content
