@@ -20,9 +20,9 @@ Chrome browser installed
 ChromeDriver compatible with your Chrome version
 
 ## Installation
-1.Clone the repository
+1. Clone the repository
 
-2.Install required packages:
+2. Install required packages:
 
 `pip install -r requirements.txt`
 
