@@ -51,10 +51,10 @@ The script will:
 4. Save output to crisis_data.csv
 
 ## Output Example (crisis_data_example.csv)
-Country,MonthYear,Title,Content
-Benin,December 2023,Political tensions rise,Opposition parties continue to protest...
-Rwanda,November 2023,Border dispute escalates,Rwandan and Congolese forces clashed...
-China,October 2023,Taiwan Strait incident,Chinese jets entered Taiwan's ADIZ...
+Country,MonthYear,Title,Content <br />
+Benin,December 2023,Political tensions rise,Opposition parties continue to protest... <br />
+Rwanda,November 2023,Border dispute escalates,Rwandan and Congolese forces clashed... <br />
+China,October 2023,Taiwan Strait incident,Chinese jets entered Taiwan's ADIZ... <br />
 
 ## Notes
 Website structure changes may require CSS selector updates
